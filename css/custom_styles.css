@@ -1,0 +1,7 @@
+@media only screen and (max-width: 767px) {
+    .slider_area .single_slider {
+        height: 60vh !important;
+        background-size: cover;  /* Changed from cover to contain */
+        background-repeat: no-repeat;
+    }
+}
